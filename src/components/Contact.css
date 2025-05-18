@@ -1,0 +1,63 @@
+.contact {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.contact h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2E3061;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 15px;
+  font-weight: bold;
+  color: #333;
+}
+
+input, textarea {
+  padding: 8px;
+  font-size: 1rem;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+textarea {
+  min-height: 100px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 2px;
+}
+
+.success-message {
+  color: green;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #2E3061;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #EADF85;
+  color: #2E3061;
+}
