@@ -1,0 +1,33 @@
+.resources {
+  padding: 20px;
+}
+
+.resources h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.resources ul {
+  list-style: none;
+  padding: 0;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.recurso-item {
+  background-color: #fff;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(46,48,97,0.2);
+}
+
+.recurso-item h3 {
+  margin-top: 0;
+  color: #2E3061;
+}
+
+.recurso-item p {
+  margin-bottom: 0;
+  color: #555;
+}

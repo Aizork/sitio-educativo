@@ -1,0 +1,21 @@
+/* Reset básico y tipografía */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+main {
+  padding: 20px;
+  min-height: 70vh;
+}
+
+footer {
+  text-align: center;
+  padding: 15px 0;
+  background-color: #2E3061;
+  color: white;
+  margin-top: 40px;
+  font-size: 0.9rem;
+}
