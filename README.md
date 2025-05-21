@@ -1,26 +1,22 @@
 # Proyecto de App para Control Escolar
 
-## Descripción
-
-Este proyecto es un **sitio web de contenido educativo** desarrollado para una organización sin fines de lucro. Su objetivo principal es proporcionar recursos educativos en línea accesibles para estudiantes de todas las edades, facilitando el aprendizaje a través de materiales gratuitos y de calidad.
-
-El sitio ofrece:
-
-- Información clara y bienvenida en la página principal.
-- Sección de recursos educativos con materiales organizados por nivel académico.
-- Formulario de contacto para que los usuarios puedan comunicarse y enviar sus dudas o comentarios.
-
----
-
+# Sitio Educativo Proyecto II
+Un sitio web educativo interactivo con visualización de contenido y funcionalidad de pruebas básicas.
+## Desarrollado por
+- Jessica Nayeli Joselinne Cuellar Rivera 224065839
+- Aldo Guerrero Ortega 222353187
+## Características
+- Navegación de cursos por categorías
+- Contenido educativo interactivo
+- Sistema de cuestionarios y evaluación
+- Seguimiento de progreso del estudiante
+- Interfaz moderna y responsiva
+- Soporte para modo oscuro
 ## Tecnologías utilizadas
-
-- React.js
-- CSS3
-
----
-
-## Instalación y uso
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Aizork/sitio-educativo-nonprofit.git
+- React
+- TypeScript
+- Tailwind CSS
+- Express.js
+- Node.js
+## Licencia
+Todos los derechos reservados © 2025
